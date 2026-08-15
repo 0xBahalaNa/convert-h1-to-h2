@@ -27,7 +27,7 @@ A Python script that safely converts Markdown H1 headings (`# Title`) to H2 head
 ### Basic Commands
 
 ```bash
-# Dry run (default) — see what would change
+# Dry run (default): see what would change
 python convert_h1_to_h2.py /path/to/vault
 
 # Dry run with per-file details
