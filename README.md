@@ -130,6 +130,8 @@ Total H1 headings:  47
 ============================================================
 ```
 
+CI runs `python -m py_compile` on every tracked Python file. It is a syntax floor until this repo has tests.
+
 ## License
 
 - MIT
